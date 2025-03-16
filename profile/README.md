@@ -2,7 +2,7 @@
 
 > **To spark, often burst in hard stone.**
 
-[logo](src/logo.gif)
+![logo](src/logo.gif)
 
 ## Introduction
 
@@ -20,7 +20,7 @@
 
 + 🎈 **安全云计算**
 
-[divider](src/divider.png)
+![divider](src/divider.png)
 
 ## Models / Programmes
 
