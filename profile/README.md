@@ -36,4 +36,4 @@
 
 👇👇👇
 
-![wechat](src/wechat.png)
+![wechat](src/wechat.svg)
