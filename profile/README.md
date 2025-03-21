@@ -1,7 +1,5 @@
 # 🍹Safphere
 
-> **To spark, often burst in hard stone.**
-
 ![logo](src/logo.gif)
 
 ## ♟️Introduction
@@ -36,4 +34,6 @@
 
 ## ♟️Media Accounts
 
-Coming soon...
+👇👇👇
+
+![wechat](src/wechat.png)
